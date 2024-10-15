@@ -1,0 +1,92 @@
+study_id:  364930790
+pred left_right:  [11 11 12 12 12  3  3  2  2  1]
+gt left_right:  [11 12 13 13 13 12 12 12 13 12]
+gt left_right:  [11 12 13 13 13 3 3 2 2 1]
+====================
+study_id:  2662989538
+pred left_right:  [ 9 10 10 10 10  5  5  5  4  4]
+gt left_right:  [ 9 10 10 10 10  9 10 10 10 10]
+## 5/6 means slice 5 has main info,6 also has sub info
+gt left_right:  [ 9 10 10 10 10  5/6 5/6 5/6 4 4]
+====================
+study_id:  2388577668
+pred left_right:  [11 11 11 11 12  3  3  2  2  3]
+gt left_right:  [10 10 12 12 12 10 10 12 12 12]
+gt left_right:  [10 10 11 11 11 6/5 6/5 6/5 5 3/4]
+====================
+study_id:  2530679352
+pred left_right:  [10 11 11 11 11  4  4  4  4  3]
+gt left_right:  [4 4 4 4 4 4 4 4 4 3]
+gt left_right:  [10 11/10 11/10 11/10 11/10 4 4 4 4 3]
+====================
+study_id:  3156269631
+pred left_right:  [10 10 10 10 10  3  3  2  2  1]
+gt left_right:  [10 10  9 10 10 10 10  9  9 10]
+gt left_right:  [10/11 10/11 10/11 10/11 10/11 3 3 2/3 1 1]
+====================
+study_id:  757619082
+pred left_right:  [10 10 10 11 11  3  2  2  1  1]
+gt left_right:  [5 5 5 5 5 2 2 2 2 2]
+gt left_right:  [10 10 10 11 11 2 2 2 2 2]
+====================
+study_id:  1395773918
+pred left_right:  [12 12 12 12 12  4  3  3  2  2]
+gt left_right:  [12 12 12 12 12 12 12 12 12 12]
+gt left_right:  [12 12 12 12 12 3  3  3/2  2/3  2/3]
+
+====================
+study_id:  1879696087
+pred left_right:  [10 10 10 10 10  4  4  3  3  3]
+gt left_right:  [3 3 3 2 2 3 3 3 2 2]
+gt left_right:  [11 11 11 11 11 4 4 4 4 4]
+====================
+study_id:  2135829458
+pred left_right:  [11 11 11 11 11  3  3  3  3  2]
+gt left_right:  [ 3  3  3  2  2 11 12 12 11 11]
+gt left_right:  [11/12 11/12 11/12 11 11 3  3  3  3/2  2] 
+====================
+study_id:  3713534743
+pred left_right:  [ 8  9 10 11 10  3  4  5  5  4]
+gt left_right:  [ 7  8 10 11 10  2  4  7  7  6]
+gt left_right:  [ 11/10 11/10 10 11 10  4  4  3  3  3]
+====================
+study_id:  3781188430
+pred left_right:  [10 10  9  8  9  5  4  3  2  2]
+gt left_right:  [10  9  6  6  8  5  3  0  0  1]
+gt left_right:  [10  9  6  6  8  5  3  3  2  3]
+====================
+study_id:  4201106871
+pred left_right:  [9 8 8 9 9 3 3 3 3 3]
+gt left_right:  [7 6 6 7 8 3 2 2 2 3]
+gt left_right:  [11 11 11 11 11 3 3 3 3 3].. about 3slice has info
+====================
+study_id:  1647904243
+pred left_right:  [11 10  9  8  9  6  5  3  2  2]
+gt left_right:  [11 11 10  7  7  8  7  5  4  2]
+gt left_right:  [11 11 10  7  7  8  7  5/6  4  2]  ###Because the spine is extremely curved, the left and right sides may differ depending on the level, such as L4 on the right and L1 on the left.
+====================
+study_id:  2830065820
+pred left_right:  [12 12 11 12 12  5  5  4  3  4]
+gt left_right:  [13 14 15 14 15  6  6  6  6  6]
+gt left_right:  [18 18 19 19 20  6  6  6  6  6]
+====================
+study_id:  3294654272
+pred left_right:  [ 9 10 10 10 11  4  4  4  4  4]
+gt left_right:  [ 9  9  9 10 11  4  4  4  4  4]
+gt left_right:  [ 13  13  13 13 13  5/6  5/6  5/6  5/6  5/6]
+====================
+study_id:  1085426528
+pred left_right:  [11 12 12 12 11  3  3  4  3  1]
+gt left_right:  [ 3  3  4  3  1 11 12 12  9  9]
+gt left_right:  [11 10 10 9 10 3  3  4  3  1]
+
+====================
+study_id:  2410494888
+pred left_right:  [11 11 11 11 11  3  3  3  2  2]
+gt left_right:  [3 3 3 2 2 3 3 2 2 2]
+gt left_right:  [11 11 11/12 11/12 11 3 3 2 2 2]
+====================
+study_id:  3495818564
+pred left_right:  [12 11 11 11 12  5  4  4  4  3]
+gt left_right:  [6 5 5 4 4 6 5 5 4 4]
+gt left_right:  [12/11 11 11/12 11/12 12 5 4/5 4 3/4]
